@@ -12,7 +12,9 @@ Nie chcemy mieć 16 różnych styli i notacji więc:
 ### Nazwy zmiennych - domyślna notacja ridera 
     private int _zmiennaPrywatna
     protected/public int ZmiennaNiePrywatna
-    var zmiennalokalna
+    var zmiennaLokalna
+    
+    Unity serialized field notacjaWegierska //tak wiem, ale unity tak chce... Czyli plik może się zmienić.
 
 ### pozostałe
 Nazwy klas od dużej litery: _Class_  
